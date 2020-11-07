@@ -1,6 +1,8 @@
 # InstanceSync
 > This project is a fork of the original [InstanceSync](https://github.com/Vazkii/InstanceSync) by [Vazkii](https://github.com/Vazkii).
 > It is basically a complete rewrite in Python.
+> It also adds a script to generate the modpack manifest.json from a minecraftinstance.json Twitch game instance.
+> Both scripts needs at least python3.6.
 
 Git hook to allow for modpack version control without moving around jar files.  
 **Requires gson**.
